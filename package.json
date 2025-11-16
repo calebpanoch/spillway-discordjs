@@ -1,0 +1,29 @@
+{
+  "name": "spillway-discordjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebpanoch/spillway-discordjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebpanoch/spillway-discordjs/issues"
+  },
+  "homepage": "https://github.com/calebpanoch/spillway-discordjs#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "chart.js": "^4.5.1",
+    "cheerio": "^1.1.2",
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3",
+    "node-cron": "^4.2.1",
+    "skia-canvas": "^3.0.8"
+  }
+}
